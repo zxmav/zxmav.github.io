@@ -2120,11 +2120,11 @@ p > code {
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
-      background: #f1f3f5bf;
+      background: #ffd8a8bf;
     }
 
     .nav-item:hover {
-      background: #f1f3f5bf;
+      background: #ffd8a8bf;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2162,7 +2162,7 @@ p > code {
     }.reward-btn-text {
         background-color: #f59f00bf !important;
       }.bg-color {
-      background-color: #ffe8ccbf;
+      background-color: #ffa94dbf;
     }
     .gemini .blog-header, .gemini .sidebar-wrapper, .gemini .article-wrapper, .gemini .post, .gemini .page, .gemini .section, .gemini .section-box, .gemini .sidebar-box, .gemini .friends-section {
       border-radius: 10px;
