@@ -2054,7 +2054,7 @@ p > code {
 .bg-color .bg-color {
       background: transparent !important;
     }body {
-      background-color: #fff0f6;
+      background-color: #ffe8cc;
     }.header {
         width: 960px;
         margin: 0 auto;
@@ -2162,7 +2162,7 @@ p > code {
     }.reward-btn-text {
         background-color: #f59f00bf !important;
       }.bg-color {
-      background-color: #fff5f5bf;
+      background-color: #ffe8ccbf;
     }
     .gemini .blog-header, .gemini .sidebar-wrapper, .gemini .article-wrapper, .gemini .post, .gemini .page, .gemini .section, .gemini .section-box, .gemini .sidebar-box, .gemini .friends-section {
       border-radius: 10px;
