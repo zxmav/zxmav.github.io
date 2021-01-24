@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.zxmacc.cf</id>
     <title>檐牙的小窝</title>
-    <updated>2021-01-24T11:28:12.537Z</updated>
+    <updated>2021-01-24T11:55:21.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.zxmacc.cf"/>
     <link rel="self" href="https://www.zxmacc.cf/atom.xml"/>
@@ -32,7 +32,7 @@
         <updated>2020-10-06T14:24:26.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[主题]]></title>
+        <title type="html"><![CDATA[网站]]></title>
         <id>https://www.zxmacc.cf/post/weifu/</id>
         <link href="https://www.zxmacc.cf/post/weifu/">
         </link>
